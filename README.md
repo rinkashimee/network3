@@ -10,7 +10,7 @@ sudo apt update && sudo apt install curl
 
 #### Step 2: Execute this script to setup and run the network3 node
 ```sh
-curl -sL https://gist.githubusercontent.com/rinkashimee/98fedf4f048e6ba4ed70eaf7fc18ea83/raw/b838eb16ab38671c13efd7074f3fbda11fd935b3/network3.sh | bash
+curl -sL https://gist.githubusercontent.com/rinkashimee/98fedf4f048e6ba4ed70eaf7fc18ea83/raw/449eea514436ba3c970026a821e4c0019048dc0b/network3.sh | bash
 ```
 ##### Results:
 ![image](https://github.com/user-attachments/assets/562ca1e4-04da-4766-80c6-1dcd0d17549c)
